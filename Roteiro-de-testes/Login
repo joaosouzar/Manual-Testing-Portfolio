@@ -14,7 +14,7 @@ CT001 (Login com sucesso)
 -> Quando preencher o campo "Username",
 -> E preencher o campo "password",
 -> E clicar no botão "Login",
--> Então o login deve ser efetuado
+-> Então o login deve ser efetuado.
 
 * Resultado esperado: Login com sucesso.
 
