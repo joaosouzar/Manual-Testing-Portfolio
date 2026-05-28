@@ -1,58 +1,110 @@
-Manual Testing Portfolio
+# 🧪 Manual Testing Portfolio
 
-Este repositório foi criado com o objetivo de demonstrar conhecimentos práticos em Quality Assurance (QA), incluindo planejamento, execução de testes e documentação de bugs.
+## 📌 Sobre o Projeto
 
-Os documentos disponíveis simulam cenários reais encontrados no dia a dia de equipes de desenvolvimento de software.
+Este repositório foi criado com o objetivo de demonstrar conhecimentos práticos em **Quality Assurance (QA)** e **Testes Manuais**.
 
-📁 Test Cases
+Aqui é possível encontrar exemplos de documentação normalmente utilizada em ambientes corporativos durante o processo de garantia de qualidade de software.
 
-Contém roteiros e casos de teste elaborados para validação de funcionalidades do sistema.
+Os materiais presentes neste portfólio simulam cenários reais de testes funcionais, identificação de falhas e documentação de evidências.
 
-Exemplos:
+---
 
-Fluxos positivos e negativos
-Validações de campos
-Regras de negócio
+# 📂 Estrutura do Repositório
 
+```bash
+Manual-Testing-Portfolio/
+│
+├── README.md
+│
+├── Test-Cases/
+│   ├── Login-Test-Cases.pdf
+│   ├── Inventory-Test-Cases.pdf
+│
+├── Bug-Reports/
+│   ├── Negative-Stock-Bug.pdf
+│   ├── Invalid-Login-Bug.pdf
+│
+├── Test-Evidence/
+│   ├── negative-stock-evidence.png
+│   ├── login-error-evidence.png
+```
 
-📁 Bug Reports
+---
 
-Contém relatórios de bugs documentados com:
+# ✅ Conteúdo Disponível
 
-Título
-Descrição
-Passos para reprodução
-Resultado atual
-Resultado esperado
-Severidade
-Prioridade
-Evidências
+## 📁 Test Cases
 
+Documentos contendo:
 
-📁 Test Evidence
+* Casos de teste
+* Roteiros de teste
+* Cenários positivos e negativos
+* Validações funcionais
+* Regras de negócio
 
-Contém evidências de testes executados, incluindo:
+---
 
-Capturas de tela
-Resultados encontrados
+## 🐞 Bug Reports
 
+Relatórios de bugs contendo:
 
-🛠️ Ferramentas Utilizadas
+* Título
+* Descrição
+* Passos para reprodução
+* Resultado atual
+* Resultado esperado
+* Severidade
+* Prioridade
+* Evidências
 
-Confluence (documentação)
-Jira (organização de tarefas e bugs)
-GitHub (versionamento e portfólio)
-Testes Manuais
-SQL básico para validações
-API Testing (conceitos básicos)
+---
 
-🎯 Objetivo
+## 📸 Test Evidence
 
-Demonstrar conhecimentos em:
+Pasta contendo evidências de execução dos testes:
 
-Planejamento de testes
-Execução de testes funcionais
-Identificação e documentação de bugs
-Organização de evidências
-Comunicação clara de problemas
-Pensamento analítico e atenção aos detalhes
+* Screenshots
+* Comprovação de falhas
+* Resultados encontrados durante validações
+
+---
+
+# 🛠️ Ferramentas Utilizadas
+
+| Ferramenta | Finalidade                    |
+| ---------- | ----------------------------- |
+| Confluence | Documentação dos testes       |
+| Trello     | Organização de tarefas e bugs |
+| GitHub     | Versionamento e portfólio     |
+| SQL        | Validação de dados            |
+| Postman    | Testes básicos de API         |
+
+---
+
+# 🎯 Habilidades Demonstradas
+
+* Planejamento de testes
+* Criação de casos de teste
+* Execução de testes funcionais
+* Identificação e documentação de bugs
+* Escrita de evidências
+* Pensamento analítico
+* Atenção aos detalhes
+* Comunicação clara de problemas
+
+---
+
+# 📌 Observação
+
+Todos os documentos presentes neste repositório foram originalmente elaborados no **Confluence**, simulando a documentação utilizada em ambientes corporativos de desenvolvimento de software.
+
+---
+
+# 👨‍💻 Autor
+
+**João Manoel**
+QA Manual | Em transição para a área de tecnologia
+
+[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/joaosouzar)
