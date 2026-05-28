@@ -19,11 +19,10 @@ Manual-Testing-Portfolio/
 │
 ├── Test-Cases/
 │   ├── Login-Test-Cases.pdf
-│   ├── Inventory-Test-Cases.pdf
+│   ├── Cadastro-de-produtos-Test-Cases.pdf
 │
 ├── Bug-Reports/
-│   ├── Negative-Stock-Bug.pdf
-│   ├── Invalid-Login-Bug.pdf
+│   ├── Campo-de-password-NÃO-aparece QTOS-5.pdf
 │
 ├── Test-Evidence/
 │   ├── negative-stock-evidence.png
@@ -51,12 +50,13 @@ Documentos contendo:
 Relatórios de bugs contendo:
 
 * Título
-* Descrição
+* Severidade
+* Prioridade
+* Ambiente
 * Passos para reprodução
 * Resultado atual
 * Resultado esperado
-* Severidade
-* Prioridade
+
 * Evidências
 
 ---
@@ -76,7 +76,7 @@ Pasta contendo evidências de execução dos testes:
 | Ferramenta | Finalidade                    |
 | ---------- | ----------------------------- |
 | Confluence | Documentação dos testes       |
-| Trello     | Organização de tarefas e bugs |
+| Jira       | Organização de tarefas e bugs |
 | GitHub     | Versionamento e portfólio     |
 | SQL        | Validação de dados            |
 | Postman    | Testes básicos de API         |
@@ -96,15 +96,10 @@ Pasta contendo evidências de execução dos testes:
 
 ---
 
-# 📌 Observação
-
-Todos os documentos presentes neste repositório foram originalmente elaborados no **Confluence**, simulando a documentação utilizada em ambientes corporativos de desenvolvimento de software.
-
----
 
 # 👨‍💻 Autor
 
 **João Manoel**
 QA Manual | Em transição para a área de tecnologia
 
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/joaosouzar)
+[LinkedIn](www.linkedin.com/in/joão-ribeiro-32a90b352) • [GitHub](https://github.com/joaosouzar)
