@@ -17,7 +17,7 @@ Manual-Testing-Portfolio/
 │
 ├── README.md
 │
-├── Test-Cases/
+├── Roteiro-de-Teste/
 │   ├── Login-Test-Cases.pdf
 │   ├── Cadastro-de-produtos-Test-Cases.pdf
 │
